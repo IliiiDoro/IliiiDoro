@@ -1,7 +1,6 @@
 # Hi, I'm Daniel G 👋
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=nkcoder&label=Profile%20views&color=0e75b6&style=flat&v=1" alt="nkcoder" /> 
 </p>
 
 - 🔭 I'm currently working on **TypeScript/Node.js, Java/SpringBoot, AWS**
